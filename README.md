@@ -68,7 +68,7 @@ Comparing pre (2019 Spring, 2018 Spring, 2017 Spring) and post (2020 Spring) pan
 * **Assignment category proportions (Spring 2020)**
 	* Run [instructional\_quality/assignment\_group\_Spring20.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/assignment_group_Spring20.ipynb)
 
-###Student Engagement by Race:
+### Student Engagement by Race:
 * **Percentage of active students per week**
 	* Run [student\_engagement\_race/active\_student\_race\_proportion.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/student_engagement_race/active_student_race_proportion.ipynb)
 
@@ -81,7 +81,7 @@ Comparing pre (2019 Spring, 2018 Spring, 2017 Spring) and post (2020 Spring) pan
 * **Average grade on assignments turned in per day**
 	* Run [student\_engagement\_race/assignment\_GPA\_race\_weekly.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/student_engagement_race/assignment_GPA_race_weekly.ipynb)
 
-###Enrollment Analysis:
+### Enrollment Analysis:
 * **Did student grades in Fall 2020 classes differ if the prerequisite for the class was satisfied in the emergency remote instruction semester?**
 	* Run [enrollment\_analysis/preprocess\_edw.py ](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/enrollment_analysis/preprocess_edw.py), the results will be saved in a file named results.pkl.
 
