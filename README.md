@@ -16,31 +16,31 @@ Comparing pre (2019 Spring, 2018 Spring, 2017 Spring) and post (2020 Spring) pan
 ### Instructor Engagement:
 * **Assignments released per day over the semester:** 
 
-	* Run [instructional\_quality/assignments\_rate.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/assignments_rate.ipynb)
+	* Run [instructor\_engagement/assignments\_rate.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/assignments_rate.ipynb)
 
 * **Number of late excused submissions:**
-	* Run  [student\_engagement/excused\_submission.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/student_engagement/excused_submission.ipynb)
+	* Run  [instructor\_engagement/excused\_submission.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/excused_submission.ipynb)
 
 * **Instructor changes to due dates after release (i.e., reactive extensions)**
-	* Run [instructional\_quality/instructor\_override\_grade_asn.ipynb ](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/instructor_override_grade_asn.ipynb)
+	* Run [instructor\_engagement/instructor\_override\_grade_asn.ipynb ](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/instructor_override_grade_asn.ipynb)
 
 * **Instructor changes to due dates before release (i.e., proactive extensions)**
-	* Run [instructional\_quality/instructor\_override\_grade\_asn.ipynb ](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/instructor_override_grade_asn.ipynb)
+	* Run [instructor\_engagement/instructor\_override\_grade\_asn.ipynb ](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/instructor_override_grade_asn.ipynb)
 
 * **Instructional staff announcements**
-	*  Run [instructional\_quality/Rate\_instructional\_announcements.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/Rate_instructional_announcements.ipynb)
+	*  Run [instructor\_engagement/Rate\_instructional\_announcements.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/Rate_instructional_announcements.ipynb)
 
 * **Assignment submission types (2020, 2019, 2018, 2017)**
-	*  Run [instructional\_quality/submission\_type\_changes.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/submission_type_changes.ipynb)
+	*  Run [instructor\_engagement/submission\_type\_changes.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/submission_type_changes.ipynb)
 
 * **Instructor time to grade assignments after submission**
-	* Run [instructional\_quality/instructor\_grade\_time.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/instructor_grade_time.ipynb)
+	* Run [instructor\_engagement/instructor\_grade\_time.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/instructor_grade_time.ipynb)
 
 * **Instructor comments on submissions**
-	* Run [instructional\_quality/instructor\_comments.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/instructor_comments.ipynb)
+	* Run [instructor\_engagement/instructor\_comments.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/instructor_comments.ipynb)
 
 * **Length of instructor comments (in bytes)**
-	* Run [instructional\_quality/instructor\_comments.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructional_quality/instructor_comments.ipynb)
+	* Run [instructor\_engagement/instructor\_comments.ipynb](https://github.com/CAHLR/Remote-Instruction-Analysis/blob/main/instructor_engagement/instructor_comments.ipynb)
 
 
 ### Student Engagement:
